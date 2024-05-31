@@ -1,12 +1,23 @@
+# Capturas de Pantalla - Prueba
 
-Capturas de Pantallas - Prueba
-![Captura de Pantalla del README](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image1.png?raw=true)
+Este repositorio contiene capturas de pantalla de las diferentes pruebas realizadas en la aplicación.
 
-![Captura de Pantalla del README](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image2.png?raw=true)
+## Prueba Filtro
 
-![Captura de Pantalla del README](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image3.png?raw=true)
+![Prueba Filtro](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image6.png?raw=true)
 
-![Captura de Pantalla del README](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image4.png?raw=true)
+## Prueba Post
 
-![Captura de Pantalla del README](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image5.png?raw=true)
+![Prueba Post](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image2.png?raw=true)
 
+## Prueba Read
+
+![Prueba Read](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image3.png?raw=true)
+
+## Prueba Delete
+
+![Prueba Delete](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image4.png?raw=true)
+
+## Prueba Update
+
+![Prueba Update](https://github.com/AlbinJunLiang/laboratorio4-tecnico/blob/main/image5.png?raw=true)
